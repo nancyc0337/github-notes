@@ -1,2 +1,4 @@
-# github-notes
-This is a repo for my poem. 
+Git
+Github
+Repo
+Commit
